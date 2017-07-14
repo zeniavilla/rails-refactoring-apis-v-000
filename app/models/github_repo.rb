@@ -6,5 +6,5 @@ class GithubRepo
     @name = hash["name"]
     @url = hash["html_url"]
   end
-
+  
 end
